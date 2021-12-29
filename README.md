@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @krylovilya
+- 🌱 I’m currently learning Python, Django, and K8s
+- 💞️ I’m looking to collaborate on Django Projects
+- 📫 How to contact me:
+  - my email
+  - https://www.linkedin.com/in/krylovilya1
